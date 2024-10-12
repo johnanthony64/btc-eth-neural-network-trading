@@ -8,11 +8,13 @@ This project implements a neural network model for predicting cryptocurrency pri
 - **Neural Network Model**: Built using TensorFlow and Keras to predict price movements.
 - **Backtesting**: Strategies are validated against historical data to assess performance.
 
+  ## Results
+(result.png)
+(Chart.png)
+
 ## Installation
 To run this project locally, ensure you have Python installed along with the following libraries:
 ```bash
-pip install numpy pandas tensorflow keras matplotlib
+pip install numpy pandas tensorflow keras matplotlib xgboost backtesting
 
-## Results
-(result.png)
-(Chart.png)
+
