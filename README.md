@@ -10,8 +10,8 @@ This project implements a neural network model for predicting cryptocurrency pri
 
   ## Results
 ## Screenshot
-![Screenshot of the Jupyter Notebook](Results.png)
-[visualization](Charts.png)
+![](Results.png)
+![visualization](Charts.png)
 
 
 ## Installation
