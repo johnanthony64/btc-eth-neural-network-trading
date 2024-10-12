@@ -11,7 +11,7 @@ This project implements a neural network model for predicting cryptocurrency pri
   ## Results
 ## Screenshot
 ![](Results.png)
-![visualization](Charts.png)
+![visualization](Chart.png)
 
 
 ## Installation
