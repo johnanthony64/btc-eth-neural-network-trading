@@ -1,4 +1,4 @@
-# Btc_Eth Neural Network Trading
+# Btc-Eth Neural Network Trading
 
 ## Overview
 This project implements a neural network model for predicting cryptocurrency prices, specifically Bitcoin (BTC) and Ethereum (ETH). The model aims to enhance trading strategies by providing accurate price predictions.
@@ -9,8 +9,10 @@ This project implements a neural network model for predicting cryptocurrency pri
 - **Backtesting**: Strategies are validated against historical data to assess performance.
 
   ## Results
-(result.png)
-(Chart.png)
+## Screenshot
+![Screenshot of the Jupyter Notebook](Results.png)
+[visualization](Charts.png)
+
 
 ## Installation
 To run this project locally, ensure you have Python installed along with the following libraries:
